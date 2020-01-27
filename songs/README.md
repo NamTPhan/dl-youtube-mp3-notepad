@@ -1,1 +1,1 @@
-## Out folder
+## Output folder
